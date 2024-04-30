@@ -1,0 +1,17 @@
+verison3:
+1.create the backend folder  should copy the uploads 
+2. create the frontend folder in public in should paste the video folder
+
+3. npm i  should run frontend and backend
+4.frontend  npm install --force
+5..create the dumps  this command----C:\Program Files\MySQL\MySQL Server 8.0\bin>mysql -u root -p dbname < "C:\Users\mahis\Downloads\backup1.sql"
+Enter password: *****
+6.after dump createing the  use this command create that table in database another person sql create tabes
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin>mysql -u root -p dbname < "C:\Users\mahis\Downloads\backup1.sql"
+Enter password: *****
+
+
+git remove -v
+git init
+git remote add origin https://github.com/Koteswari799/bcg_projects.git
